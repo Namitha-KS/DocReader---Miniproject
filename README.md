@@ -29,7 +29,7 @@ DocReader not only provides in-depth summaries but also generates insightful que
 [Langchain](https://github.com/langchain-ai/langchain)
 
 ## How to configure and run
-1. Clone this repository
+1. Clone this repository `git clone https://github.com/Namitha-KS/DocReader_Miniproject.git`
 2. Install the libraries `pip install -r requirements.txt`
 3. Download any model from [here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) according to the device space
 4. run the code `python main.py`
